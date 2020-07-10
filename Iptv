@@ -126,15 +126,6 @@ https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w1892320256_b1344100_slen
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS",USEE SPORT 2
 https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w952446569_b1344100_sleng.m3u8?enc=IUhJFG0CWBZJ9T7b7XVyjw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594134509
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",CHAMPIONS TV 1
-http://ikasalon.com/cgi_bin/vidio/m3u/6685-champion1-prime.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",CHAMPIONS TV 2
-http://ikasalon.com/cgi_bin/vidio/m3u/6686-champion2-prime.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",CHAMPIONS TV 3
-http://ikasalon.com/cgi_bin/vidio/m3u/6786-champion3-prime.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORT 1
 https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w1900216154_b1344100_sleng.m3u8?enc=NDHc-2z4PbHMugiDQsU2VQ&exp=1594136986
 
