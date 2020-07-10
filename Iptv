@@ -1,0 +1,348 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/RCTI.png" group-title="INDONESIA",RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mfqKgdkdQsg/UaYr6fFW1xI/AAAAAAAAALY/HU0iq2pU-og/s1600/MNC_TV_logo.png" group-title="INDONESIA",MNC
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA",INDOSIAR
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1081528717_b894100_sleng.m3u8?enc=viWKwXruHLumUgB4RExqtA&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594260968
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" group-title="INDONESIA",ANTV
+http://116.48.0.132:9981/stream/channelid/13780613?ticket=54ED6D548E8CE745DA5102AFC0D1EAD42FC0CECD&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1956276150_b894100_sleng.m3u8?enc=GKxjK3dF-czERt4E5Qvurw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594261092
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="INDONESIA",TRANS TV 
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-L_aSOZqkK8c/WYQpXI8obxI/AAAAAAAAAHU/wg0ZGctatOkwjkMuTlnZRQZCiUqgPRFTQCLcBGAs/s1600/TV%2Bone.png" group-title="INDONESIA", TV ONE
+http://116.48.0.132:9981/stream/channelid/1529401424?ticket=EA8B95B5FC60BD1A1542E3FBCA563EED371DE482&profile=pass
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoVXN3fpzMweeevksVtOaO5Irpc8wg0h5rlF0hwm5MAaSH9GRI&usqp=CAU" group-title="INDONESIA",GTV
+http://iptvhit.live/jajang/encos/encos/1
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA",NET TV
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w596798617_b894100_sleng.m3u8?enc=26-wQqQnPixuk5KeB8JEKA&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594261198
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="INDONESIA",RTV
+http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="INDONESIA", DUNIA LAIN
+https://vcdnjt.useetv.com/joss/18/dunialain/chunklist_w1302361067_b684100_sleng.m3u8?enc=OcFjrV_gbPv34hRcBvFFVQ&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594268354
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMvSOpDgyeU3jA64Es17oQLPte4H85YFon_LVbS6QkmpM2UDSI&usqp=CAU" group-title="INDONESIA", PRIMA TV BANJARMASIN
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH4ydrDOsar0bYwbJzCTMC72CYxXeNcF8HcV_ruULbzQuqp8-m&usqp=CAU" group-title="INDONESIA",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w107431205_b384000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="INDONESIA",KOMPAS TV
+http://116.48.0.132:9981/stream/channelid/519026390?ticket=9720661951523A3EA45AE58F6BA1BB03A00A37B9&profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INEWS
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", SBS ONE
+http://116.48.0.132:9981/stream/channelid/1863780836?ticket=DF7A770BD2614D8A96B4E8248832F5862273AA08&profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", SBS VICELAND
+http://116.48.0.132:9981/stream/channelid/1044927542?ticket=EC23FC0D011A9A64666745607588B9CC21A63484&profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", SBS  WORLD MOVIES
+http://116.48.0.132:9981/stream/channelid/405535220?ticket=2CE199F4BE921D06B7553F741CE7FC52E8C3EE5E&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES",FLIX
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w891049538_b1344100_sleng.m3u8?enc=rHiovohXpNPxypJ7AHp4Uw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594266075
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
+https://vcdnjt.useetv.com/joss/18/imc/chunklist_w1156659659_b684100_sleng.m3u8?enc=kmSBOc-QpkG90Os-ENyR7w&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594266205
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="MOVIES", BIOSKOP INDONESIA
+https://vcdnjt.useetv.com/joss/18/bioskopindonesia/chunklist_w1553199218_b684100_sleng.m3u8?enc=ccwz7VLF3v0CNyDRmjR5yA&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594268460
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", GALAXY
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1700268079_b894100_sleng.m3u8?enc=eJBXlLjWLRtRyUT8nhwU8w&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594268594
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="MOVIES",KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w526125073_b1344100_sleng.m3u8?enc=hysLXPiiwA36aZMhQk6Asw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594268669
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES",WARNER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w2111972700_b1344100_sleng.m3u8?enc=m8IRQlJVCtsd9ebsviZJxw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594268771
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES", THRILL
+https://vcdnjt.useetv.com/joss/18/thrill/chunklist_w1447689101_b684100_sleng.m3u8?enc=QlOaoiv9CVkhzJskq10oGQ&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594140813
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="MOVIES", DREAMWORKS
+https://cdnbpp1.useetv.com/joss/15/dreamworks/chunklist_w557792473_b894100_sleng.m3u8?enc=eAriUAHSalLxwEQhCPg1wg&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594135366
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIES",TVN MOVIES
+https://cdnbpp1.useetv.com/joss/15/tvnmovies/chunklist_w1455256717_b1344100_sleng.m3u8?enc=9KqRPTOvhW0TfIHTf2-Xkg&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594135566
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", CELESTIAL MOVIES
+https://cdnbpp1.useetv.com/joss/18/celestialmovie/chunklist_w817107929_b684100_sleng.m3u8?enc=npgnU8zeFkO1hQdLafu62g&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594135472
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIES", ZEE BIOSKOP
+https://cdnbpp1.useetv.com/joss/18/zbioskop/chunklist_w1265456797_b684100_sleng.m3u8?enc=QxEmt4jlJDCHzXoWZJtEGA&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594135967
+
+#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSepAx1czSsC6ZKJtde8ja2REodPJAnyJNSw&usqp=CAU" group-title="MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+
+#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQy8ziOnQ0Ja9-kclPWvjoVBMmuAuYCoGeobA&usqp=CAU" group-title="MOVIES",FOX ACTION MOVIES
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+
+#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyn_tp0SZW4VJnoj-hKhT7FPea4-aSnNUyhw&usqp=CAU" group-title="MOVIES",HBO
+http://116.48.0.132:9981/stream/channelid/1043769406?ticket=735F7589B2484CA1F6D6061AC2BD421D664E4D05&profile=pass
+
+#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQD6Vc_EINItbIPIMSs4rpLDkkaJWVGgDuUw&usqp=CAU" group-title="MOVIES",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=CA6110ECE54A29021249257F6CDB16D70D6C9E20&profile=pass
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZ46uG1_v16cBmhNFDrJsZsfLN4-A6jSYN8w&usqp=CAU" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS",USEE SPORT 1
+https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w1892320256_b1344100_sleng.m3u8?enc=9XG6hpxmD91kF_I3FyRSHw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594134333
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS",USEE SPORT 2
+https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w952446569_b1344100_sleng.m3u8?enc=IUhJFG0CWBZJ9T7b7XVyjw&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594134509
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",CHAMPIONS TV 1
+http://ikasalon.com/cgi_bin/vidio/m3u/6685-champion1-prime.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",CHAMPIONS TV 2
+http://ikasalon.com/cgi_bin/vidio/m3u/6686-champion2-prime.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",CHAMPIONS TV 3
+http://ikasalon.com/cgi_bin/vidio/m3u/6786-champion3-prime.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORT 1
+https://cdnjt22.useetv.com/joss/15/bein1/chunklist_w1900216154_b1344100_sleng.m3u8?enc=NDHc-2z4PbHMugiDQsU2VQ&exp=1594136986
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORT 2
+https://cdnjt22.useetv.com/joss/15/bein2/chunklist_w502868398_b1344100_sleng.m3u8?enc=vmNYFD5YrhXnsJ4q-W9jAA&exp=1594137120
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORT 1
+https://cdnbdsa1.useetv.com/joss/15/foxsport1/chunklist_w2088762483_b1344100_sleng.m3u8?enc=IVtNKtMQwu5eavFh2Kc4_g&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594137703
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORT 2
+https://cdnbdsa1.useetv.com/joss/15/foxsport2/chunklist_w818115400_b1344100_sleng.m3u8?enc=9mG6y8rVe7NUSTPADu7uKg&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594137830
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORT 3
+https://cdnbdsa1.useetv.com/joss/15/foxsport3/chunklist_w735352333_b1344100_sleng.m3u8?enc=21yHSMTjRe695v27uY0fIQ&id=ZTViY2JhMWM5OGQwMTcxNDczZTM0MjE2ZWJkMTc2ZWI=&exp=1594137977
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",Skynetsport HD
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",SKYNETSPORTS 6
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",TRUE PREMIER FOOTBALL 1
+https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",TRUE PREMIER FOOTBALL 2
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",TRUESPORT HD
+https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",TRUESPORT HD2
+https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="SPORTS",TRUESPORT HD3
+https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/449924/moviethumb/ip-man-4-5e5a92bd365d1.jpg" group-title="VOD", IP MAN 4
+https://zaccar.b-cdn.net/movies/01-08-2020/Ip.Man.4.The.Finale.2019.TC720p.mp4
+
+#EXTINF:-1 tvg-logo="https://mymoviebox.tv/wp-content/uploads/2020/02/badddd.png" group-title="VOD", BAD BOYS FOR LIFE
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Bad.Boys.for.Life.2020.HDRip.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://thatsgaming.nl/wp-content/uploads/2020/02/jumanji-3-review-585x329.jpg" group-title="VOD", JUMANJI : THE NEXT LEVEL
+https://cdn.bitball.se/movies/02-12-2020/Jumanji.The.Next.Level.2019.KORSUB.HDRip.x264-STUTTERSHIT.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/lEz6Q0NLM17UlpnkCZdj5oBfehU=/750x416/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2881122/original/027749900_1565753906-Gundala_official.jpg" group-title="VOD",  GUNDALA
+https://bitball.b-cdn.net/movies/indonesia/Gundala.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS22HNWRDxZAv1Oon2poQZ4Jp05TPBE2V8zFowQgEB2W4C4_4RK&usqp=CAU" group-title="VOD", BUFFALO BOYS
+https://bitball.b-cdn.net/movies/02-12-2020/Buffalo.Boys.2018.BluRay.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRfRwI0GyKYvHLYlFyw7ByhZFPfIZx0C8JlG1OzOAYs3UmMPLZ&usqp=CAU" group-title="VOD", THE FAST OF THE FURIOUS 8 (2017)
+https://zaccar.b-cdn.net/movies/12-03-2019/The.Fate.Of.The.Furious.2017.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJSmSlRWhJNrtV22pmhLSQw87E0-J_2iDoeA&usqp=CAU" group-title="VOD", THE FAST OF THE FURIOUS 7 (2015)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Furious.7.2015.UHD.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", EXTRACTION (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Extraction.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590020147/p17622664_v_v8_aa_tbp6f7.jpg" group-title="VOD", 6 UNDERGROUND
+https://zaccar.b-cdn.net/movies/12-03-2019/6.u.2019.internal.720p.web.x264-strife.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAzQQn-2XYw_S_9lyuSsrgKtQ5WppeZVjYMx_tai-9FLqB0aHN&usqp=CAU" group-title="VOD", CAPTAIN MARVEL
+https://zaccar.b-cdn.net//movies/MCU/01.Captain.Marvel.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxz0LhSKqHU-R65d87S4NodRCManWOpJUTSw&usqp=CAU" group-title="VOD", AVENGERS INFINITY WARS (2018)
+https://zaccar.b-cdn.net//movies/MCU/19-Avengers%20Infinity%20War%20(2018)%20[BluRay]%20[720p]%20[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKw2-mAU63HyTxbiUD9j5oTjq-psNJN0Ticw&usqp=CAU" group-title="VOD", AVENGERS OF ULTRON (2015)
+https://zaccar.b-cdn.net//movies/MCU/12-Avengers%20Age%20of%20Ultron%20(2015)%20[BluRay]%20[720p]%20[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3PRyTzV_oVtE5BxPEsw5SZ2V-wInxDKp3A&usqp=CAU" group-title="VOD", WONDER WOMAN (2017)
+https://zaccar.b-cdn.net/movies/12-03-2019/Wonder.Woman.2017.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnlalQSaqNa8x3lnH31DOxcQojpTnhcHsvGjhp_Y5dKJk2BmYQ&usqp=CAU" group-title="VOD", MALEFICENT 2 MISTRESS OF EVIL
+https://zaccar.b-cdn.net/movies/01-08-2020/Maleficent.Mistress.Of.Evil.2019.720p.BluRay.x264-[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6wOBHJuDBuztrUJCEhHc2RZMcrASDomh3HIT2jWuu6fImSzD7&usqp=CAU" group-title="VOD", JOHN WICK 2
+https://zaccar.b-cdn.net/movies/12-03-2019/John.Wick.Chapter.2.2017.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Z2XpvqIge3OJnGjRziO0pFmmdpwB8iV83yUb3mAxX35ZJNAo&usqp=CAU" group-title="VOD", KINGSMAN 2 THE GOLDEN CIRCLE (2017)
+https://zaccar.b-cdn.net/movies/12-03-2019/Kingsman.The.Golden.Circle.2017.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxmXICKTtyx44pC-oB5M11rJ1f8irlYi0o0ue9-OfR4OquyrlY&usqp=CAU" group-title="VOD", JOKER
+https://zaccar.b-cdn.net//movies/12-03-2019/Joker.2019.720p.WEBRip.x264-[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy9qp7qKH5eN7UN8N36qnme1kRPKfTnUAm0Q&usqp=CAU" group-title="VOD", VENOM
+https://zaccar.b-cdn.net//movies/12-02-2019/Venom.2018.720p.BluRay.x264-[YTS.AM].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1-gDW3Ioly2bI64rhFtgujhDOcEgBhUQOQA&usqp=CAU" group-title="VOD", THOR RAGNAROK (2017)
+https://zaccar.b-cdn.net//movies/MCU/18-Thor%20Ragnarok%20(2017)%20[BluRay]%20[720p]%20[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrjipSu42vfH5TtjDf1pmF5Nv4vA4RIiAJjA&usqp=CAU" group-title="VOD", THOR THE DARK WORLD (2013)
+https://cdn.zaccar.ru//movies/MCU/08-Thor%20The%20Dark%20World%20(2013)%20[BluRay]%20[720p]%20[YTS.LT].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ305SqiWXnDXAAK_j3aSMSnT3nmYpyObMgOQ&usqp=CAU" group-title="VOD", TRANSFORMERS THE LAST KNIGHT (2017)
+https://bitball.b-cdn.net/movies/2020-05/05-07-2020/Transformers.The.Last.Knight.2017.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQ0Bd5leAqgrz62C9WBQWU3AKu7Gno5dLTOA&usqp=CAU" group-title="VOD", TRANSFORMERS DARK OF THE MOON (2011)
+https://bitball.b-cdn.net/movies/2020-05/05-07-2020/Transformers.Dark.of.the.Moon.2011.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ305SqiWXnDXAAK_j3aSMSnT3nmYpyObMgOQ&usqp=CAU" group-title="VOD", TRANSFORMERS (2007)
+https://bitball.b-cdn.net/movies/2020-05/05-07-2020/Transformers.2007.480p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz20SHz3yVy3uXHNEibTEgj_OXHjVM2BpVfQ&usqp=CAU" group-title="VOD", SUICIDE SQUAD
+https://zaccar.b-cdn.net/movies/01-09-2020/Suicide.Squad.2016.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIlBgj-jA7hcq4jpXlEo9USxjAzHeoHDJ8Ug&usqp=CAU" group-title="VOD", FANTASTIC BEAST AND WHERE TO FIND
+https://zaccar.b-cdn.net/movies/01-09-2020/Fantastic.Beasts.And.Where.To.Find.Them.2016.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcwpPoKvKVPW762LRg8RlCQgzswgDpmEIgeg&usqp=CAU" group-title="VOD", TANHAJI THE UNSUNG WARRIOR
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Tanhaji.The.Unsung.Warrior.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTq1lgHWwtsJ4-QX_9xkaT7tJtt4CduAhR2Ew&usqp=CAU" group-title="VOD", BATMAN VS SUPERMAN DAWN OF JUSTICE
+https://zaccar.b-cdn.net/movies/01-09-2020/Batman.V.Superman.Dawn.Of.Justice.2016.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrDch1ytERbUxtYd0_nN8XYM_YKaryhYPZcQ&usqp=CAU" group-title="VOD", JUSTICE LEAGUE
+https://zaccar.b-cdn.net/movies/12-03-2019/Justice.League.2017.720p.BluRay.x264-[YTS.AM].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQItTSLIJ2OQz8KV1nIoO2B5ealg4FTmSzyxA&usqp=CAU" group-title="VOD", KONG : SKULL ISLAND
+https://zaccar.b-cdn.net/movies/12-03-2019/Kong.Skull.Island.2017.720p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQO8WaA3QzDYHlS4sjVxKwy11gAV9GWo78kVw&usqp=CAU" group-title="VOD", MUNAFIK
+https://bitball.b-cdn.net/movies/2020-05/05-28-2020/Munafik.2016.WEB-DL.720p-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", LOVE FOR SALE 2
+https://bitball.b-cdn.net/movies/indonesia/Love.for.Sale.2.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", PEREMPUAN TANAH JAHANAM
+https://bitball.b-cdn.net/movies/2020-05/05-22-2020/01-Perempuan.Tanah.Jahanam.2019.WEBRip.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", RATU ILMU HITAM
+https://bitball.b-cdn.net/movies/03-03-2020/03-21-2020/Ratu.Ilmu.Hitam.2019.720p.GoPlay.WEB-DL.AAC2.0.H.264.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", ROH FASIK
+https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", MAKMUM
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", SATU SURO
+https://bitball.b-cdn.net/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", THE NIGHT COME FROM US
+https://bitball.b-cdn.net/movies/01-13-2020/stream/The.Night.Comes.For.Us.2018.720p.WEBRip.x264-[YTS.AM].mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", ROMEO RINJANI
+https://bitball.b-cdn.net/movies/02-12-2020/Romeo.Rinjani.2015.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", TRINITY THE NEKAD TRAVELER
+https://bitball.b-cdn.net/movies/03-03-2020/03-17-2020/Trinity.the.Nekad.Traveler.2017.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", WINTER IN TOKYO
+https://bitball.b-cdn.net/movies/02-12-2020/Winter.in.Tokyo.2016.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", MY STUPID BOSS
+https://bitball.b-cdn.net/movies/indonesia/mystupidboss.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", SABYAN MENJEMPUT MIMPI
+https://bitball.b-cdn.net/movies/indonesia/Sabyan.Menjemput.Mimpi.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD",  TARGET
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Target.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD",  ARINI
+https://bitball.b-cdn.net/movies/02-12-2020/Arini.2018.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", SESUAI APLIKASI
+https://bitball.b-cdn.net/movies/2020-05/05-01-2020/Sesuai.Aplikasi.2018.WEB-HD.720p.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", DIMSUM MARTABAK
+https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Dimsum.Martabak.2018.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", BENYAMIN BIANG KEROK
+https://bitball.b-cdn.net/movies/2020-05/05-13-2020/Benyamin.Biang.Kerok.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", TAKUT KAWIN
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Takut.Kawin.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", PROMISE
+https://bitball.b-cdn.net/movies/02-12-2020/Promise.2017.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", ME VS MAMI
+https://zaccar.b-cdn.net/movies/indonesia/Me%20VS%20Mami%20(2016)%20WEBRip%20720p.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD", NEGERI VAN ORANJE
+https://bitball.b-cdn.net/movies/03-03-2020/03-12-2020/Negeri.Van.Oranje.2015.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/?attachment_id=1187458" group-title="VOD" MY NAME IS DICK
+https://bitball.b-cdn.net/movies/02-16-2020/Namaku.Dick.2008.WEB-DL.480p.FMZM.mp4
+
+
+
+
+
